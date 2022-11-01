@@ -158,6 +158,8 @@ Iterations to reach total error less than 700: 2
 Final total error: 352
 Final Weights: [0.19991935, 0.09104083, -0.17158392]
 
+<img src="/perceptron_classifier/images/c/hard25.png" width=50% height=50%>
+
 || Actual Big | Actual Small |
 |----|----|----|
 | __Predicted Big__ | 562 | 935 |
@@ -188,9 +190,6 @@ Final Weights: [14.36777671, 9.98415727, -12.01696955]
 |----|----|----|
 | __Predicted Big__ | 1120 | 387 |
 | __Predicted Small__ | 437 | 1056 |
-
-<img src="/perceptron_classifier/images/c/soft25.png" width=50% height=50%>
-
 
 
 <img src="/perceptron_classifier/images/c/soft25.png" width=50% height=50%>
